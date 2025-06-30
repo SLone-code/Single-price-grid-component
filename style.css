@@ -77,6 +77,10 @@ div.bg-cyan{
 
 @media only screen and (max-width: 768px) {
 
+    .container{
+    width: 90%;
+    }
+
     .container>.bg-white{
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
